@@ -1,4 +1,4 @@
-![logo]([https://github.com/youlook335/youlook335/blob/main/Blue%20&%20White%20Modern%20Business%20Facebook%20Cover.png?raw=true])
+![logo](https://github.com/youlook335/youlook335/blob/main/Blue%20&%20White%20Modern%20Business%20Facebook%20Cover.png?raw=true)
 <h1 align="center">Hi 👋, I'm Tanveer</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
