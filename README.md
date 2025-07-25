@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Tanveer</h1>
 <h3 align="center">A passionate MERN Stack developer</h3>
 
-![logo](https://github.com/youlook335/youlook335/blob/main/Blue%20&%20White%20Modern%20Business%20Facebook%20Cover.png?raw=true)
-
+![logo](https://github.com/youlook335/youlook335/blob/main/.png?raw=true)
+![alt text](https://github.com/youlook335/youlook335/blob/main/Background%20img-1.png?raw=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youlook335&label=Profile%20views&color=0e75b6&style=flat" alt="youlook335" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@youloos477" target="blank"><img src="https://img.shields.io/twitter/follow/@youloos477?logo=twitter&style=for-the-badge" alt="@youloos477" /></a> </p>
