@@ -16,7 +16,7 @@ If you’d like to collaborate or give feedback on any project, feel free to con
 
 
 ## GitHub Stats & Trophies
-<p align="center">
+<p>
   <a href="https://github.com/malik-tanveer">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=malik-tanveer&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="malik-tanveer's GitHub Stats" />
   </a>
