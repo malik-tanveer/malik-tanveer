@@ -35,8 +35,61 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/malik-tanveer-8bbaa13b2/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:mtanveerdev.33@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://protfolio-personal.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/> </a> </p>
+<p align="center">
 
+  <a href="https://github.com/malik-tanveer" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/malik-tanveer-8bbaa13b2/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40" height="40"/>
+  </a>
+
+  <a href="mailto:mtanveerdev.33@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://protfolio-personal.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://x.com/malikTanveer321" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://discord.gg/trkPVKjY" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.instagram.com/youloos477" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://t.me/Malikkhanawan" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.tiktok.com/@you.look88" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/TikTok.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.threads.com/@youloos477" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Threads.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://pin.it/3OZyQAodo" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Pinterest.svg" width="40" height="40"/>
+  </a>
+
+   <a href="https://leetcode.com/u/kubuz2edzs/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" height="40"/>
+  </a>
+
+  <a href="https://stackoverflow.com/users/31794246/" target="_blank">
+    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="40" height="40"/>
+  </a>
+
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
