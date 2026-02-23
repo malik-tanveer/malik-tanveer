@@ -3,13 +3,19 @@
 
 <img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
-- I'm Tanveer (GitHub: malik-tanveer) — a DAE 2nd Year Software Technology student passionate about building clean, responsive web experiences and contributing to open source. 🚀
-- Tagline: Crafting web projects with JS/TS, React, and a focus on learning fast and shipping often. ⚡
-- I'm actively building web projects (front-end and back-end), experimenting with containers and deployments, and contributing to small open-source projects. I enjoy turning ideas into interactive prototypes and improving them iteratively.
+## About Me
+Hi, I’m Tanveer — a Full Stack MERN Developer with 1 year of hands-on experience building modern web applications.
+I specialize in JavaScript, TypeScript, React, Node.js, Express, and MongoDB, focusing on clean, scalable, and maintainable code.
+
+I enjoy designing responsive frontends, developing robust backend APIs, implementing authentication, and optimizing app performance.
+I’m passionate about turning ideas into real-world applications, experimenting with new tools, and contributing to open-source projects.
+
+Currently, I’m working on enhancing my personal portfolio, improving full-stack skills with Node.js, Firebase, Docker, and deployment workflows (Vercel), and actively challenging myself with daily coding practices.
+
+If you’d like to collaborate or give feedback on any project, feel free to connect via LinkedIn, GitHub, or Email.
 
 
-## 📊 GitHub Stats & Trophies
+## GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/malik-tanveer">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=malik-tanveer&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="malik-tanveer's GitHub Stats" />
@@ -34,7 +40,7 @@
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-## 🔗 Connect with Me
+## Connect with Me
 <p align="center">
 
   <a href="https://github.com/malik-tanveer" target="_blank">
