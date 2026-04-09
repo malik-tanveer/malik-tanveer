@@ -4,15 +4,15 @@
 <img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
 
 ## About Me
-Hi, I’m Tanveer — a Full Stack MERN Developer with 1 year of hands-on experience building modern web applications.
+Hi, I’m Tanveer a Full Stack MERN Developer with 1 year of hands-on experience building modern web applications.
 I specialize in JavaScript, TypeScript, React, Node.js, Express, and MongoDB, focusing on clean, scalable, and maintainable code.
 
-I enjoy designing responsive frontends, developing robust backend APIs, implementing authentication, and optimizing app performance.
+I enjoy designing responsive frontends, developing backend APIs, implementing authentication, and optimizing app performance.
 I’m passionate about turning ideas into real-world applications, experimenting with new tools, and contributing to open-source projects.
 
 Currently, I’m working on enhancing my personal portfolio, improving full-stack skills with Node.js, Firebase, Docker, and deployment workflows (Vercel), and actively challenging myself with daily coding practices.
 
-If you’d like to collaborate or give feedback on any project, feel free to connect via LinkedIn, GitHub, or Email.
+If you like to collaborate or give feedback on my any project, feel free to connect via LinkedIn, GitHub, or Email.
 
 
 ## GitHub Stats & Trophies
@@ -55,38 +55,8 @@ If you’d like to collaborate or give feedback on any project, feel free to con
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://protfolio-personal.vercel.app/" target="_blank">
+  <a href="https://tanveer-49ddc.web.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://x.com/malikTanveer321" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://discord.gg/trkPVKjY" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.instagram.com/youloos477" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://t.me/Malikkhanawan" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.tiktok.com/@you.look88" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/TikTok.svg" width="40" height="40"/>
-  </a>
-<a href="https://www.facebook.com/tanveer.khan.215124" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.threads.com/@youloos477" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Threads.svg" width="40" height="40"/>
-  </a>
-
-  <a href="https://pin.it/3OZyQAodo" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Pinterest.svg" width="40" height="40"/>
   </a>
 
    <a href="https://leetcode.com/u/kubuz2edzs/" target="_blank">
@@ -95,9 +65,7 @@ If you’d like to collaborate or give feedback on any project, feel free to con
 
   <a href="https://stackoverflow.com/users/31794246/" target="_blank">
     <img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="40" height="40"/>
-  </a>
-
-  
+  </a>  
 
 </p>
 <picture>
