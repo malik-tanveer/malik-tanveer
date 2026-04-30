@@ -1,34 +1,105 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Malik%20Tanveer&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Dev%20(MERN)&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+## 👨‍💻 About Me
 
-<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
+Hi, I'm **Tanveer** a passionate **Full Stack Developer** focused on building modern, scalable, and user-friendly web applications.
 
-## About Me
-Hi, I’m Tanveer a Full Stack MERN Developer with 1 year of hands-on experience building modern web applications.
-I specialize in JavaScript, TypeScript, React, Node.js, Express, and MongoDB, focusing on clean, scalable, and maintainable code.
+I primarily work with **JavaScript & TypeScript**, turning ideas into real-world products using modern technologies.
 
-Currently, I’m focused on improving my full-stack development skills while learning Python, Next.js, React, Angular, Tailwind CSS, and MongoDB. I also explore tools like Firebase and Docker, and actively practice coding daily.
+💡 I focus on writing **clean, maintainable, and scalable code**, not just making things work.  
+📈 I strongly believe in **learning by building**, and I actively improve my skills every day.
 
-If you’d like to collaborate or give feedback on my projects, feel free to connect:
+---
 
+## 🚀 Tech Stack
 
-## GitHub Stats & Trophies
-<p>
-  <a href="https://github.com/malik-tanveer">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=malik-tanveer&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="malik-tanveer's GitHub Stats" />
+### ⚡ Core
+- React / Next.js  
+- Node.js / Express  
+- MongoDB  
+- Tailwind CSS  
+
+### 🎨 Frontend & UI
+- Angular  
+- Three.js  
+- GSAP (animations)  
+- Vuetify  
+- Bootstrap  
+- CSS3  
+
+### 🧠 Currently Learning
+- Python  
+- Java  
+- PHP  
+- C  
+- Docker & DevOps basics  
+
+---
+
+## ⚡ What I'm Doing
+
+- 🔨 Building full-stack MERN projects  
+- 🎯 Improving problem-solving & system design  
+- 🚀 Exploring animations & 3D web experiences  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/malik-tanveer">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=malik-tanveer&show_icons=true&theme=radical&border_radius=12" />
+</a>
+
+<a href="https://github.com/malik-tanveer">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=malik-tanveer&layout=compact&langs_count=8&theme=radical&border_radius=12" />
+</a>
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=malik-tanveer&theme=radical&hide_border=true" width="70%" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=malik-tanveer&theme=radical&radius=10" width="95%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://trophy.ryglcloud.net/?username=malik-tanveer&theme=radical&no-frame=true&no-bg=true&margin-w=6" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/malik-tanveer-8bbaa13b2">
+    <img src="https://img.shields.io/badge/LinkedIn-Malik%20Tanveer-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=malik-tanveer&theme=radical&hide_border=true&cache_seconds=86400" alt="malik-tanveer's GitHub Streak" width="49%" />
-</p>
-
-<p>
+  
   <a href="https://github.com/malik-tanveer">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=malik-tanveer&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+    <img src="https://img.shields.io/badge/GitHub-malik--tanveer-black?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://tanveer49.web.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel" />
   </a>
 </p>
-
-
-<p>
-  <img src="https://trophy.ryglcloud.net/?username=malik-tanveer&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Malik Tanveer's GitHub Trophies" />
-</p>
-<p>
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=malik-tanveer&theme=radical&radius=10" alt="malik-tanveer's Activity Graph" />
-</p> 
