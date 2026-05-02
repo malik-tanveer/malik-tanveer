@@ -2,7 +2,6 @@
 
 <img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
 
-
 ## 👨‍💻 About Me
 
 Hi, I'm **Tanveer** a passionate **Full Stack Dev and MERN Stack** focused on building modern, scalable, and user-friendly web applications.
@@ -125,9 +124,13 @@ I Specifically work with **JavaScript & TypeScript**, turning ideas into real-wo
 
 ## 🔥 Streak Stats
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=malik-tanveer&theme=radical&hide_border=true" width="70%" />
+<div>
+<p>
+  <a href="https://github.com/malik-tanveer">
+    
+  <img src="https://streak-stats.demolab.com/?user=malik-tanveer&theme=radical&hide_border=true&cache_seconds=86400" alt="malik-tanveer's GitHub Streak" width="49%" />
+  </a>
+</p>
 
 </div>
 
@@ -147,7 +150,7 @@ I Specifically work with **JavaScript & TypeScript**, turning ideas into real-wo
 
 <div align="center">
 
-<img src="https://trophy.ryglcloud.net/?username=malik-tanveer&theme=radical&no-frame=true&no-bg=true&margin-w=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=malik-tanveer&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 
 </div>
 
